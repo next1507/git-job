@@ -3,8 +3,9 @@ I can
 I do 
 I win
 
-<<<<<<< HEAD
-=======
+
+Low
+ 
 Feel the weight of the world In my bones
 Tried to swim but I’m sinking alone
 falling in the deep unknown
@@ -14,4 +15,3 @@ Hands up
 Feel the bullets from your
 Head rush
 Head rush
->>>>>>> feature
